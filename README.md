@@ -22,13 +22,13 @@
 </div>
 
 ### :woman_technologist: About Me : I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I will add it later
+- :telescope: I am currently a student at Petrozavodsk State University, studying Information Systems and Technology. Also I was an exchange student at the University of Oulu, Finland
 
-- :seedling: and this one too
+- :bar_chart: I am passionate about Python programming and the field of Artificial Intelligence, including NLP
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my leisure time, I study foreign languages and take courses on various platforms
 
-- :mailbox:How to reach me: [![VK Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/darya_efimova02l)
+- :star: After graduation, I plan to move to Finland, where I will start an exciting new chapter in my life with new opportunities
 
 ---
 
