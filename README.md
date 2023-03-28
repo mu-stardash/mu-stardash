@@ -57,12 +57,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mu-stardash&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD0A0A)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-stardash&layout=compact&theme=tokyonight&exclude_repo=Diplom&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-stardash&hide=html&layout=compact&theme=tokyonight&exclude_repo=Diplom&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu-stardash&count_private=true&theme=cobalt&show_icons=true)
-
-
-
 
 
 
