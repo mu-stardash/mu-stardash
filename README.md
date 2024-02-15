@@ -21,15 +21,14 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"  height="250"/>
 </div>
 
-### :woman_technologist: About Me : I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I am currently a student at Petrozavodsk State University, studying Information Systems and Technology. Also I was an exchange student at the University of Oulu, Finland
+### :woman_technologist: About Me : Passionate data science professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I graduated from Petrozavodsk State University in 2023 with a bachelor degree in Information Systems and Technologies. Also I was an exchange student at the University of Oulu, Finland
 
 - :bar_chart: I am passionate about Python programming and the field of Artificial Intelligence, including NLP
 
 - :zap: In my leisure time, I study foreign languages and take courses on various platforms
 
-- :star: After graduation, I plan to move to Finland, where I will start an exciting new chapter in my life with new opportunities
-
+- :star: I moved to Oulu and am now actively studying Finnish
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
